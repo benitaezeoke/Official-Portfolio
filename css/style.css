@@ -36,7 +36,7 @@ body {
 .profile-card {
    background: #111;
    width: 400px;
-   padding: 3rem;
+   padding: 3.9rem;
    border-radius: 10px;
    min-height: 400px;
    position: relative;
@@ -187,7 +187,7 @@ body {
 .about {
    background-color: #111;
    max-width: 800px;
-   padding: 2rem 3rem;
+   padding: 3.5rem 3rem;
    border-radius: 10px;
 }
 
